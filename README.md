@@ -16,3 +16,7 @@ I only had a few scattered hours to focus on this. For a more solid VAM test sub
 ## Run in test mode option
 In order to group all regions by country, I query an endpoint 4k+ times, once per region. During this process, a data structure is gradually created. To run this program with archived data:
 - `python3 main.py test`
+
+
+## Expected output
+![screenshot](./images/expected_output.png)
